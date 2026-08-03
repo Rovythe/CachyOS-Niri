@@ -1,1 +1,2 @@
 # Fastfetch
+rm -rf ~/.git
