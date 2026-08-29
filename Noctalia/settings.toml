@@ -1,4 +1,4 @@
-config_version = 11
+qconfig_version = 11
 
 [bar.default]
 background_opacity = 0.44999998994171619
