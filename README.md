@@ -66,6 +66,7 @@ If you want to use them:
 ## Screenshots
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9581c70f-78ee-4043-9948-844132a070e0" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fe9dece0-946a-4d2b-92f1-f3adda8d1be0" />
 
 
 ## Credits
