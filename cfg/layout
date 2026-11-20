@@ -1,5 +1,5 @@
 layout {
-    gaps 2
+    gaps 5
 
     center-focused-column "never" // Don’t auto-center focused column
 
@@ -19,6 +19,15 @@ focus-ring {
 
     struts {}
 }
+
+
+window-rule {
+    shadow {
+        on
+    }
+}
+
+
 
 window-rule {
     match app-id="org.gnome.Nautilus"
